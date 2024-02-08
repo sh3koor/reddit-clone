@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![reddit_clone screenshot](https://1drv.ms/i/s!AiMI7Tp2kGVEhf4xscSyz_Z-VT9diA?e=QYkROK "Screenshot of Reddit Clone")
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
