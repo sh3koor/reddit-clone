@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![reddit_clone screenshot](https://1drv.ms/i/s!AiMI7Tp2kGVEhf4xscSyz_Z-VT9diA?e=QYkROK "Screenshot of Reddit Clone")
+![reddit_clone screenshot](blob:https://photos.onedrive.com/0a86eb90-9080-4206-83ff-ae3aa3ef535e "Screenshot of Reddit Clone")
 
 ## Getting Started
 
