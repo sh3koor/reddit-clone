@@ -15,6 +15,7 @@ class LoginScreen extends ConsumerWidget {
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
+    //controller state to check if the user is loading
     bool isLoading = ref.watch(authControllerProvider);
     return Scaffold(
       appBar: AppBar(

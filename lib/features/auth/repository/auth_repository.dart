@@ -94,7 +94,11 @@ class AuthRepository {
     } on FirebaseException catch (e) {
       throw e.message!;
     } catch (e) {
-      return left(Failure(e.toString()));
+      return
+
+          /// In the provided Dart code snippet, the `left` function is used in conjunction with
+          /// `right` to return an `Either` type from the `fpdart` package.
+          left(Failure(e.toString()));
     }
   }
 
